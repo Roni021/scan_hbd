@@ -9,13 +9,13 @@ import KonamiListener from "@/components/KonamiListener";
 export const metadata: Metadata = {
   // Update this to your real production URL once deployed (used to resolve OG/Twitter image URLs).
   metadataBase: new URL("http://localhost:3000"),
-  title: "Happy Birthday, Roni ❤️",
+  title: "Happy Birthday, Saumya ❤️",
   description: "A little birthday surprise, made just for you.",
   icons: {
     icon: "/favicon.ico",
   },
   openGraph: {
-    title: "Happy Birthday, Roni ❤️",
+    title: "Happy Birthday, Saumya ❤️",
     description: "A little birthday surprise, made just for you.",
     images: ["/images/hero.jpg"],
   },
